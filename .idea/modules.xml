@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab2_shapes/lab2_shapes.iml" filepath="$PROJECT_DIR$/lab2_shapes/lab2_shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3_comments/lab3_comments.iml" filepath="$PROJECT_DIR$/lab3_comments/lab3_comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4_exceptions/lab4_exceptions.iml" filepath="$PROJECT_DIR$/lab4_exceptions/lab4_exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5_classes/lab5_classes.iml" filepath="$PROJECT_DIR$/lab5_classes/lab5_classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6_stream/lab6_stream.iml" filepath="$PROJECT_DIR$/lab6_stream/lab6_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7_generics/lab7_generics.iml" filepath="$PROJECT_DIR$/lab7_generics/lab7_generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8_patterns/lab8_patterns.iml" filepath="$PROJECT_DIR$/lab8_patterns/lab8_patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop203-master.iml" filepath="$PROJECT_DIR$/.idea/oop203-master.iml" />
+    </modules>
+  </component>
+</project>
